@@ -1,5 +1,6 @@
+package com.valentinet;
 
-public class StringManipulation {
+public class StringUtil {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
